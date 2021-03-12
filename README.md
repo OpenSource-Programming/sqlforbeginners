@@ -11,8 +11,7 @@ Sample File name: melissa-week1-createtable-012021.sql
 Find course schedule by clicking on below link:
 https://docs.google.com/spreadsheets/d/1rP5LcERFlgTUozKThziXxMnweAyoVn-kdmAE88Q4rLs/edit?usp=sharing
 
-join us on Discord by clicking on below link:
-https://discord.gg/aA68DT3vyg
+Click on the link for Discord access: https://discord.gg/QPhnfbznFf
 
 Its very important for all attendee's to have a github account. If you don't have one, Please create a github by visiting below link:
 https://github.com/
