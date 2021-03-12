@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 Sample File name: melissa-week1-createtable-012021.sql
 
 Find course schedule by clicking on below link:
-https://docs.google.com/spreadsheets/d/1rP5LcERFlgTUozKThziXxMnweAyoVn-kdmAE88Q4rLs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Y1upctp0fTsN4ET_q7blXCv6nNJXff0p9fFMFi_n_lo/edit?usp=sharing
 
 Click on the link for Discord access: https://discord.gg/QPhnfbznFf
 
