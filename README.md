@@ -13,7 +13,9 @@ Sample File name: melissa-week1-createtable-012021.sql
 Find course schedule by clicking on below link:
 https://docs.google.com/spreadsheets/d/1Y1upctp0fTsN4ET_q7blXCv6nNJXff0p9fFMFi_n_lo/edit?usp=sharing
 
-Click on the link for Discord access: https://discord.gg/QPhnfbznFf
+Click on the link for Discord access: https://discord.gg/QPhnfbznFf 
+
+Optional: Join our Facebook Group: https://tinyurl.com/OpenSourceprogramming4all
 
 Its very important for all attendee's to have a github account. If you don't have one, Please create a github by visiting below link:
 https://github.com/
