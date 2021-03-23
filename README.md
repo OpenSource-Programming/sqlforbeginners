@@ -5,6 +5,8 @@ The Repository is designed for beginners to SQL and database management systems
 
 Welcome to the MySQL Training wiki!
 
+Enroll by Clicking on this link https://tinyurl.com/TraineeOnboarding
+
 Visit below link For Course Syllabus:
 https://www.youtube.com/watch?v=HXV3zeQKqGY
 
